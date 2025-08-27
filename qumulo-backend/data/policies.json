@@ -1,0 +1,22 @@
+{
+  "7b3b8f9e-8e0d-47b7-8a6c-2e2b3e0c1a11": {
+    "enabled": true,
+    "schedule": {
+      "cron": "0 */6 * * *"
+    },
+    "retentionDays": 14,
+    "locking": {
+      "enabled": false
+    }
+  },
+  "f2a1a3b2-1c34-4d8f-b85e-4a6a42b0132d": {
+    "enabled": false,
+    "schedule": {
+      "cron": "0 2 * * *"
+    },
+    "retentionDays": 7,
+    "locking": {
+      "enabled": false
+    }
+  }
+}
