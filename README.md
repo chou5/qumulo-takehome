@@ -43,7 +43,7 @@ It includes a **Next.js frontend** and an **AdonisJS backend**, with APIs and UI
 
 ### 1. Clone repo
 ```bash
-git clone https://github.com/<your-username>/qumulo-takehome.git
+git clone https://github.com/chou5/qumulo-takehome.git
 cd qumulo-takehome
 ```
 
